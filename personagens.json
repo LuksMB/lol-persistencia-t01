@@ -1,0 +1,30 @@
+{
+  "champions" : [ {
+    "id" : 0,
+    "name" : "Garen",
+    "position" : "Toplaner",
+    "species" : "Humano",
+    "range" : "Melee",
+    "region" : "Demacia",
+    "resource" : "sem Mana",
+    "creationDate" : "20-12-2002"
+  }, {
+    "id" : 1,
+    "name" : "Lux",
+    "position" : "Suporte/Mid",
+    "species" : "Humano",
+    "range" : "Distance",
+    "region" : "Demacia",
+    "resource" : "Mana",
+    "creationDate" : "20-12-2002"
+  }, {
+    "id" : 2,
+    "name" : "Aatrox",
+    "position" : " Toplaner",
+    "species" : "Darkin",
+    "range" : "Melee",
+    "region" : "NÃ£o sei",
+    "resource" : " Sem mana",
+    "creationDate" : " 21-12-2002"
+  } ]
+}

@@ -1,0 +1,34 @@
+<Champions>
+  <Champions>
+    <Champion>
+      <id>0</id>
+      <position>Toplaner</position>
+      <species>Humano</species>
+      <range>Melee</range>
+      <region>Demacia</region>
+      <resource>sem Mana</resource>
+      <creationDate>20-12-2002</creationDate>
+      <Name>Garen</Name>
+    </Champion>
+    <Champion>
+      <id>1</id>
+      <position>Suporte/Mid</position>
+      <species>Humano</species>
+      <range>Distance</range>
+      <region>Demacia</region>
+      <resource>Mana</resource>
+      <creationDate>20-12-2002</creationDate>
+      <Name>Lux</Name>
+    </Champion>
+    <Champion>
+      <id>2</id>
+      <position> Toplaner</position>
+      <species>Darkin</species>
+      <range>Melee</range>
+      <region>NÃ£o sei</region>
+      <resource> Sem mana</resource>
+      <creationDate> 21-12-2002</creationDate>
+      <Name>Aatrox</Name>
+    </Champion>
+  </Champions>
+</Champions>

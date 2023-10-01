@@ -1,0 +1,13 @@
+1.
+    Lucas e Rubens definiram qual seria a entidade e seus atributos, escolhemos Campeão pela facilidade de lidar com uma entidade sem dependências adicionais.
+    Os atributos de Campeão veio do nosso próprio conhecimento do jogo League of Legends, assim como os que são indicados em um site interativo que simula o Wordle,
+    mas com o mundo que abrange nosso tema, o site é "loldle.net".
+
+
+2. 
+    Como a entidade já havia sido definida em 1, consideramos o peso de F1 quase nulo, mas foi implementado pelo Rubens.
+    Rubens fez as funcionalidades F2 e F3, realizando as conversões de CSV para JSON e XML, assim como fazendo a parte de consulta para contar as entidades cadastradas no CSV. 
+    Lucas fez as funcionalidades F4 e F5, realizando as conversões para zip e recuperando o valor do Hash SHA256 do arquivo CSV.
+
+3.
+    Lucas fez o arquivo txt detalhando a divisão do trabalho e concluindo esse primeiro trabalho.
